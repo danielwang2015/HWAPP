@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_f4e81daca7421750c267d1ea24f8e9cb8bf7d2d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-0.11.0_3e834d8d667de63cb115fa8d212e84bf9627ed6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.42.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.42.0_42980e11a1370cf766cd6d80d2f0b21fc97bfbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_62e4cc5ee267c1ae5932eb3cd994fa6a6cacac3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_d1ac365dbd0d8ce30fc01fe2e8396478e3fe8bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.11.0_2e84e0b86e72253620588148d2af2371b2b2d835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.42.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_7b78028358a231d5fea455a9c2edffc7e1d52fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_bd2f71ea159f4c0d23e3c993a177c927a0f6a0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_34b4a2fffd530a389776ebe62dd7da63ac23efa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c3f7a8324e796cc258fae003a9f21ecd6fe1b94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f896651ad3ddbf786256f2bf8ddc3dad4b12fe04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a0bce5f809c7b384b482f88ecaacec1f4b4525df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_060a8706b3920b5c32ceae6a512e0af1e34da408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_92614557f7c867617a7d4890ff2979a6c2390995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.11.0_4f398e30325e1fc06a4c5173b28876a08c780eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_c86b609125c1c7e147d724b59062d1f11079c313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.11.0_deac8d6b96de46a6b744d86cc05bc3ea64e1765a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c97c23183dff70bbdd7c363aaa15d205d288e165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2d7f680dd5380f37601a0c8a27ae7deba9ca2959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.11.0_87ede93e2639d2486f222212aae3e559dfa2e21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_d79f37a4a738873339f265197f7055dab56e43bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_bd40da305b108e3f23b967c6cfc7af84dca7d350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.11.0_dc3a7ca86f88667f4fdc265620ea3b6db03563ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cn-wandan\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\APP_Projects\HLKC\HLKC_APP\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_30f4c9bd835a48e3066e6efc402f7d4a54d59ce1.jar" />
+    </item>
+
+</items>
